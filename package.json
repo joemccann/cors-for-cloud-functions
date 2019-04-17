@@ -1,0 +1,26 @@
+{
+  "name": "cors-for-cloud-functions",
+  "version": "1.0.0",
+  "description": "↔ Utility module for enabling CORS on Google Cloud Functions HTTP responses.",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "standard",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joemccann/cors-for-cloud-functions.git"
+  },
+  "keywords": [],
+  "author": "Joe McCann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joemccann/cors-for-cloud-functions/issues"
+  },
+  "homepage": "https://github.com/joemccann/cors-for-cloud-functions#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "tape": "^4.10.1"
+  }
+}
